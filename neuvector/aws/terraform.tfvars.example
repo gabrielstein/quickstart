@@ -30,7 +30,7 @@ kubernetes_version = "v1.24.14+rke2r1"
 neuvector_admin_password = "AI2zSYMFuCZ3HUeyNNMj1urUpCSEfgE0"
 
 # NeuVector helm chart version
-neuvector_chart_version = "2.6.1"
+neuvector_chart_version = "2.7.6"
 
 # Prefix added to names of all resources
 prefix = "neuvector-quickstart"
@@ -42,4 +42,4 @@ rancher_helm_repository = "https://releases.rancher.com/server-charts/latest"
 rancher_server_admin_password = "adminadminadmin"
 
 # Rancher version
-rancher_version = "2.7.9"
+rancher_version = "2.8.2"
